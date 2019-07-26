@@ -2,5 +2,7 @@
 # この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
 ################################################################################
 
+/C/Test01/.vs
 /C/Test01/.vs/Test01/v16/ipch/AutoPCH
 /C/Test01/.vs/Test01/v16/Browse.VC.opendb
+/C/Test01/Debug
